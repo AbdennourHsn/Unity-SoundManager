@@ -90,8 +90,8 @@ This Unity script provides a centralized manager for handling game configuration
 
 ## Features
 
-- ** Singleton Pattern**: Ensures a single instance of `GameConfigurations` exists.
-- ** Configuration Persistence**: Saves and loads settings from PlayerPrefs.
-- ** Easy Access**: Provides properties to access and modify each setting.
-- ** Default Settings**: Option to reset all settings to their default values.
+- **Singleton Pattern**: Ensures a single instance of `GameConfigurations` exists.
+- **Configuration Persistence**: Saves and loads settings from PlayerPrefs.
+- **Easy Access**: Provides properties to access and modify each setting.
+- **Default Settings**: Option to reset all settings to their default values.
 
